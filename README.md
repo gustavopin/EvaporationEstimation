@@ -87,7 +87,7 @@ The error between the original and calculaterd version were calculated and added
 
 A boxplot was generated to visualize how the distribution of the errors worked within the data:
 
-![Error Boxplot](Images/error_boxplot.png, 'Error Boxplot')
+![Error Boxplot](Images/error_boxplot.png 'Error Boxplot')
 
 In general, the linear regression that was used here had most of it's measures with less than 10% difference from the original values.
 
